@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.fondo{
+	background:url("https://i2.wp.com/erizos.mx/wp-content/uploads/2017/04/pokebolas-bandai-set-3.jpg?resize=636%2C398")no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+.color{
+	color: #ffffff
+}
